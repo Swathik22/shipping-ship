@@ -1,0 +1,30 @@
+#container{
+    background-color: aqua;
+}
+
+.details{
+    display: flex;
+    border: 2px dotted white;
+    justify-content: space-between;
+}
+
+.detail--column{
+    
+    padding-left: 25px;
+}
+
+ul{
+    background-color: aqua;
+    border:2px dotted white;
+    width: 100%;
+    padding:0;
+    list-style: none;
+}
+
+li{
+    display: block;
+    background-color: azure;
+    padding: auto;   
+    margin: 5px ;
+}
+
